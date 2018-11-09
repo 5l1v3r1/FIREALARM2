@@ -1,5 +1,5 @@
 # S.H.D.S.
-Use of a Micro-controller MC68HC11F1 with ported Visual Studio ANSI C computer programming language to construct a sophisticated fire alarm system.
+Comprehensive user manual for the Smoke and Heat Detection System (S.H.D.S) from initial system boot to diagnostic testing.
 ![Screenshot](SHDS.PNG)
 
 ![Screenshot](SHDS2.PNG)
