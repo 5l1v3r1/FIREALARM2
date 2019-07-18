@@ -1,6 +1,6 @@
 # S.H.D.S.
 
-Includes a comprehensive user manual for the Smoke and Heat Detection System (S.H.D.S) from initial system boot to diagnostic testing.
+The S.H.D.S. program files and user manual have been specifically designed and written for LabVIEW software version 2013.
 ![Screenshot](SHDS.PNG)
 
 
