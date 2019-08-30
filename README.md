@@ -11,6 +11,8 @@
 
 - [x] The program and user manual have been specifically designed and written for LabVIEW - version 2013.
 
+Includes user manual and sensor report.
+
 ### SMOKE AND HEAT DETECTION SYSTEM
 
 ![Screenshot](SHDS.PNG)
