@@ -9,7 +9,7 @@
 | PDF      | Sensor Report.pdf  | 6feb3d7055e470826221eddd958aefde |
 | PDF      | Wiring Diagrams.pdf| 9ebb362c1c6ecfcfa177c615ef85494c |
 
-The program and user manual have been specifically designed and written for LabVIEW - version 2013.
+- [x] The program and user manual have been specifically designed and written for LabVIEW - version 2013.
 
 ### SMOKE AND HEAT DETECTION SYSTEM
 
