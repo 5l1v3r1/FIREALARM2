@@ -1,6 +1,5 @@
 # FIRE ALARM SYSTEM
-
-The program and user manual have been specifically designed and written for LabVIEW - version 2013.
+## USE OF LABVIEW 2013 TO CONSTRUCT A SOPHISTICATED SMOKE AND HEAT DETECTION SYSTEM.
 
 | LANGUAGE | FILENAME           | MD5 Hash                         |
 |------    |------              | -------                          |
@@ -10,7 +9,9 @@ The program and user manual have been specifically designed and written for LabV
 | PDF      | Sensor Report.pdf  | 6feb3d7055e470826221eddd958aefde |
 | PDF      | Wiring Diagrams.pdf| 9ebb362c1c6ecfcfa177c615ef85494c |
 
-## A smoke and heat detection system.
+The program and user manual have been specifically designed and written for LabVIEW - version 2013.
+
+### SMOKE AND HEAT DETECTION SYSTEM
 
 ![Screenshot](SHDS.PNG)
 
